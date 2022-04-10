@@ -1,0 +1,5 @@
+{
+	"ip":"AS_Gamerz2022.aternos.me",
+	"port": "45970",
+	"name": "afkbot"
+}
